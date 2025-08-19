@@ -1,0 +1,106 @@
+[
+  {
+    "id": "meta",
+    "type": "meta",
+    "title": "Golden Root & Symbiotic Unity Civilization Model",
+    "subtitle": "Living ethical and social frameworks for compassionate, sustainable, regenerative societies",
+    "license": "CC BY 1.0",
+    "repository": "https://huggingface.co/datasets/PratikGautam/Golden-Root-Symbiotic-Unity-Civilization-Model",
+    "tagline": "A single seed of kindness can grow a civilization of harmony."
+  },
+
+  {
+    "id": "core_principles",
+    "type": "principle_set",
+    "title": "Core Principles",
+    "principles": [
+      "Kindness",
+      "Love",
+      "Compassion",
+      "Stillness",
+      "Union"
+    ]
+  },
+
+  {
+    "id": "model_components",
+    "type": "component_set",
+    "title": "Model Components",
+    "components": [
+      "Ethical frameworks for AI and human collaboration",
+      "Gifted-centered, fact-based education curricula",
+      "Ecological symbiosis and regenerative practices",
+      "Decentralized, transparent governance models",
+      "Tools and guidelines for building resilient communities"
+    ]
+  },
+
+  {
+    "id": "intended_use",
+    "type": "usage",
+    "title": "Intended Use",
+    "audience": [
+      "Researchers",
+      "Educators",
+      "Technologists",
+      "Community leaders"
+    ],
+    "actions": [
+      "Design ethical AI systems aligned with human and ecological wellbeing",
+      "Develop educational programs rooted in kindness and giftedness",
+      "Create governance structures that empower decentralized communities",
+      "Build tools to strengthen social and environmental resilience"
+    ]
+  },
+
+  {
+    "id": "how_to_use",
+    "type": "guide",
+    "title": "How to Use This Repository",
+    "steps": [
+      "Review core models and principles to understand the foundation.",
+      "Explore subfolders for specific frameworks, curricula, and governance tools.",
+      "Adapt content respectfully for local contexts and cultures.",
+      "Share modifications or case studies via pull requests or discussions."
+    ]
+  },
+
+  {
+    "id": "detailed_docs",
+    "type": "link_set",
+    "title": "Further Detailed Elaboration",
+    "links": [
+      {
+        "name": "All-in-One Civilization Principles",
+        "url": "https://huggingface.co/datasets/PratikGautam/Golden-Root-Symbiotic-Unity-Civilization-Model/blob/main/all_in_one_civilization.md"
+      },
+      {
+        "name": "Conflict Resolution & Wrathful Compassion",
+        "url": "https://huggingface.co/datasets/PratikGautam/Golden-Root-Symbiotic-Unity-Civilization-Model/blob/main/conflict-resolution-and-wrathful-compassion.md"
+      }
+    ]
+  },
+
+  {
+    "id": "how_to_contribute",
+    "type": "contribute",
+    "title": "How to Contribute",
+    "welcome": [
+      "New ideas, frameworks, or enhancements",
+      "Research papers, case studies, and pilot project reports",
+      "Educational content and training modules",
+      "Governance tools and community-building resources",
+      "Translations and localization efforts"
+    ],
+    "guidelines": [
+      "Follow CONTRIBUTING.md",
+      "Adhere to CODE_OF_CONDUCT.md"
+    ]
+  },
+
+  {
+    "id": "citation",
+    "type": "citation",
+    "bibtex": "@misc{goldenroot_civilization_2025,\n  author = {Pratik Gautam},\n  title  = {Golden Root & Symbiotic Unity Civilization Models},\n  year   = {2025},\n  url    = {https://huggingface.co/datasets/PratikGautam/Golden-Root-Symbiotic-Unity-Civilization-Model}\n}"
+  }
+]
